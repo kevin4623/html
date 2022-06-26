@@ -1,2 +1,5 @@
 # html
-learning html  6-22
+
+generic readme
+trying out html
+      6-22
